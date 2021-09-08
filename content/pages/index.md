@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Jing-Ze Ma
+    title: Jing-Ze Ma Ma
     content: >-
       Stackbit Next.js Universal theme. It can be used as a starting point for a
       new project or as a learning tool. This theme has stackbit.yaml and
