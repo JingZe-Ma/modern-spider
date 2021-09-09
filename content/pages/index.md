@@ -8,9 +8,6 @@ sections:
       new project or as a learning tool. This theme has stackbit.yaml and
       vanilla CSS.
     actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: button
       - label: Stackbit Docs
         url: 'https://www.stackbit.com/docs/'
         style: button
