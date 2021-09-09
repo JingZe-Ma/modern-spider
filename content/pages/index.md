@@ -24,6 +24,7 @@ sections:
     image: images/feature.svg
     image_alt: Feature 1 placeholder image
     image_position: right
+    section_id: '#heading-1'
   - type: feature_section
     title: This is heading
     content: >-
