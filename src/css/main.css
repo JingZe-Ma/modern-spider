@@ -12,6 +12,8 @@ main {
     display: block;
 }
 
+.text-green { color: #2ea44f; }
+
 h1 {
     font-size: 2em;
     margin: 0.67em 0;
