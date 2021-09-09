@@ -13,7 +13,7 @@ sections:
         style: button
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: button
   - type: feature_section
     title: This is heading
     content: |-
